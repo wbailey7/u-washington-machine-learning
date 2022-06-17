@@ -7,7 +7,7 @@ University of Washington Machine Learning Specialization - Completed xx/xx/xxxx 
 
 This repo contains the python programming assignments for each module and the completion certificate for each course/specialization.
 
-Course 1: Machine Learning Foundations: A Case Study Approach - Completed xx/xx/xxxx<br/>
+Course 1: Machine Learning Foundations: A Case Study Approach - Completed 04/29/2022<br/>
 [Certificate]<br/>
 [Coursera Verification]
 
